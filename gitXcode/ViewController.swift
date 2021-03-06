@@ -13,6 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("hello world")
+        let mymapcontroll = MapViewViewController()
+        print(mymapcontroll)
         // Do any additional setup after loading the view.
     }
 
